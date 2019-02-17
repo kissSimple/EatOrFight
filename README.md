@@ -1,5 +1,5 @@
 # EatOrFight
-u3d game,moba
+3d moba game
 
 一个新的开始
 努力去战胜对于未知的恐惧吧
